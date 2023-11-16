@@ -1,4 +1,4 @@
-##**bloom-3b-bangla-convo-english-instruction-slimorca-pretrained.csv**
+## **bloom-3b-bangla-convo-english-instruction-slimorca-pretrained.csv**
 ONE OF THE BEST RESULTS
 | Question | Response |
 | -------- | -------- |
