@@ -1,4 +1,5 @@
-### **bloom-3b-bangla-convo-english-instruction-slimorca-pretrained.csv**
+##**bloom-3b-bangla-convo-english-instruction-slimorca-pretrained.csv**
+ONE OF THE BEST RESULTS
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? |  দাঁত ব্যথা থেকে মুক্তি পেতে হলে প্রথমে আপনাকে দাঁত ব্রাশ করতে হবে। ব্রাশ করার সময় দাঁত ব্রাশ করার জন্য একটি ভালো মানের ব্রাশ ব্যবহার করতে হবে। ব্রাশ করার সময় দাঁত ব্রাশ করার সময় দাঁত ব্রাশ করার জন্য একটি ভালো মানের ব্রাশ ব্যবহার করতে হবে। ব্রাশ করার সময় দাঁত ব্রাশ করার জন্য একটি ভালো মানের ব্রাশ ব্যবহার করতে হবে। ব্রাশ করার সময় দাঁত ব্রাশ করার জন্য একটি ভালো মানের ব্রাশ ব্যবহার করতে হবে। ব্রাশ করার সময় দাঁত ব্রাশ করার জন্য একটি ভালো মানের ব্রাশ ব্যবহার করতে |
@@ -24,7 +25,7 @@
 | Create a plot for a science fiction movie set in the year 2100. |  Title: The Future of Life Plot: In the year 2100, humanity has reached a technological and scientific peak. The world is ruled by a benevolent government, which has invested heavily in research and development. The population is growing exponentially, and the need for food, water, and energy is becoming increasingly pressing. The government has established a food reserve system, which provides a steady supply of food to the population. However, the system is not without its shortcomings. The government has been unable to fully |
 
 
-### **bloom-3b-bangla-english-dental-raw-pretrained.csv**
+## **bloom-3b-bangla-english-dental-raw-pretrained.csv**
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? | [INST]আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি?  |
@@ -50,7 +51,8 @@
 | Create a plot for a science fiction movie set in the year 2100. |  2. Create a plot for a science fiction movie set in the year 2100. [INST] 3. Create a plot for a science fiction movie set in the year 2100. [INST] 4. Create a plot for a science fiction movie set in the year 2100. [INST] 5. Create a plot for a science fiction movie set in the year 2100. [INST] 6. Create a plot for a science fiction movie set in the year 2100. [INST]7 |
 
 
-### **bloom-3b-bangla-english-instruction-slimorca-pretrained.csv**
+## **bloom-3b-bangla-english-instruction-slimorca-pretrained.csv**
+SLIGHTLY GOOD
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? |  দাঁত ব্যথা থেকে মুক্তি পেতে হলে আপনাকে কিছু পদক্ষেপ নিতে হবে। প্রথমত, আপনার দাঁত পরিষ্কার রাখতে হবে। দাঁত পরিষ্কার না থাকলে ব্যাকটেরিয়া দাঁতকে আক্রান্ত করতে পারে। ব্যাকটেরিয়া দাঁতকে আক্রান্ত করলে দাঁত ব্যথা হতে পারে। তাই দাঁত পরিষ্কার রাখতে হবে। দ্বিতীয়ত, দাঁত মাজা এবং দাঁত ধোয়ার অভ্যাস তৈরি করতে হবে। দাঁত মাজা এবং দাঁত ধোয়ার অভ্যাস থাকলে দাঁত ব্যথা থেকে মুক্তি পাবেন। তৃতীয়ত, দাঁত ব্যথার ওষুধ ব্যবহার করতে হবে। দাঁত ব্যথার ওষুধ ব্যবহার করলে ব্যথা কমবে। চতুর্থত |
@@ -75,7 +77,8 @@
 | Explain the concept of blockchain to someone unfamiliar with it. |  A blockchain is a distributed ledger that stores and verifies information in a decentralized way. It is a digital database that stores and manages information in a way that is immutable, verifiable, and secure. The information is stored in blocks, which are linked together to form a chain. Each block contains information about transactions, such as the time and location of a transaction, and the identity of the parties involved. The blockchain is a distributed database that is accessible to anyone with a valid internet connection. It is a |
 | Create a plot for a science fiction movie set in the year 2100. |  Title: The Future of the World Plot: In the year 2100, a group of scientists and engineers are working on a project to create a new world. They are working on a project called the "Project X," which is a project to create a new civilization. The scientists and engineers are working on the project with the help of a group of scientists and engineers from the future, who are called the "Project Y." The scientists and engineers from the future are working on the project with |
 
-### **bloom-3b-bangla-hasib-convo-pretrained.csv**
+## **bloom-3b-bangla-hasib-convo-pretrained.csv**
+WORST
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? | ] |
@@ -101,7 +104,8 @@
 | Create a plot for a science fiction movie set in the year 2100. | ]], [[#INST_Plot_Description|Description of the plot]], [[#INST_Plot_Plot|Plot]], [[#INST_Plot_Plot_Description|Description of the plot]], [[#INST_Plot_Plot_Plot|Plot]], [[#INST_Plot_Plot_Plot_Description|Description of the plot]], [[#INST_Plot_Plot_Plot_Plot|Plot]], [[#INST_Plot_Plot_Plot_Plot_Description |
 
 
-### **bloom-3b-bangla-hasib-pretrained.csv**
+## **bloom-3b-bangla-hasib-pretrained.csv**
+WORST
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? | # বাকি অংশ ছাপা হবে আগামীকালপ্রভাষকঢাকা রেসিডেনসিয়াল মডেল কলেজ. ঢাকা ‘জঙ্গিবাদ দমনে সবাইকে একযোগে কাজ করতে হবে।’ গতকাল শনিবার রাজধানীর ধানমন্ডিতে আওয়ামী লীগের সভানেত্রীর রাজনৈতিক কার্যালয়ে এক আলোচনা সভায় প্রধানমন্ত্রী শেখ হাসিনা এ কথা বলেন। তিনি বলেন. ‘জঙ্গিবাদ দমনে সবাইকে একযোগে কাজ করতে হবে।’ প্রধানমন্ত্রী বলেন. ‘জঙ্গিবাদ দমনে সবাইকে একযোগে কাজ করতে হবে।’ তিনি বলেন. ‘জঙ্গিবাদ দমনে সবাইকে একযোগে কাজ |
@@ -126,7 +130,9 @@
 | Explain the concept of blockchain to someone unfamiliar with it. | Answer to the question no. 5(a) Blockchain is a computer system that is used to record and store information. It is a distributed ledger. It is a computer system that is used to record and store information. It is a distributed ledger. It is a computer system that is used to record and store information. It is a distributed ledger. It is a computer system that is used to record and store information. It is a distributed ledger. It is a computer system that is used to |
 | Create a plot for a science fiction movie set in the year 2100. | Answer to the question no. 1(a) The film will be set in the year 2100.(b) The film will be set in the year 2100.(c) The film will be set in the year 2100.(d) The film will be set in the year 2100.(e) The film will be set in the year 2100.# বাকি অংশ ছাপা হবে আগামীকালশিক্ষক. বীরশ্রেষ্ঠ মুন্সী আব্দুর রউফ পাবলিক কলেজ. ঢাকা রাজধানীর গুলশানে হলি আর্টিজান |
 
-### **bloom-3b-convo-bangla-english-instruction-existing.csv**
+## **bloom-3b-convo-bangla-english-instruction-existing.csv**
+BEST
+
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? |  আপনি যদি দাঁত ব্যথা থেকে মুক্তি পেতে চান, তাহলে আপনাকে কিছু পদক্ষেপ নিতে হবে। চলুন, আমরা সেই পদক্ষেপগুলো সম্পর্কে আলোচনা করি: ১. দাঁত ব্যথা শুরু হলে: প্রথমেই আপনাকে দাঁত ব্যথা শুরু হলে দ্রুত চিকিৎসকের কাছে যেতে হবে। চিকিৎসকের পরামর্শ অনুযায়ী আপনি ওষুধ, ব্যথানাশক, বা অন্য কোনো উপশমকারী ওষুধ ব্যবহার করতে পারেন। ২. ব্যথানাশক: ব্যথানাশক ওষুধ যেমন, এমফিসিটামিন, এমফিসিটামাইন, এমফিস |
@@ -151,7 +157,8 @@
 | Explain the concept of blockchain to someone unfamiliar with it. |  Blockchain is a distributed ledger technology that allows for the secure and immutable storage and transfer of data. It is a decentralized system that relies on a distributed network of computers called nodes to store, verify, and transfer data. The nodes are connected to each other through a network of computers called a blockchain network. The nodes are also connected to a central database called a blockchain server. The blockchain server is responsible for maintaining the data and ensuring that it is secure and immutable. Blockchain is a decentralized system that relies |
 | Create a plot for a science fiction movie set in the year 2100. |  Title: The Future of Earth Plot: In the year 2100, humanity has reached a technological peak. The Earth is a peaceful and prosperous planet, with a population of over 10 billion people. However, the population is rapidly growing, and the planet is facing a severe shortage of resources. The population is divided into two main groups: the urbanized and industrialized, and the rural and agricultural. The urbanized and industrialized group is led by the elite, who have access to advanced technology and |
 
-### **bloom-3b.csv**
+## **bloom-3b.csv**
+WORST
 | Question | Response |
 | -------- | -------- |
 | আমি কিভাবে দাঁত ব্যথা থেকে মুক্তি পেতে পারি? | - |
